@@ -1,0 +1,83 @@
+ 1  cd c:/users/cl3/
+    2  ls
+    3  cd c:/users/cl3/documents
+    4  ls
+    5  cd c:/users/occs/
+    6  cd c:/users/occs/documents
+    7  ls -al
+    8  mkdir workspace-Descartin
+    9  ls
+   10  c:/users/occs/documents/worspace-Descartin
+   11  ls
+   12  c:/users/occs/documents/workspace-Descartin
+   13  ls
+   14  ls -al
+   15  touch descartin.txt
+   16  ls
+   17  c:/users/occs/documents/workspace-Descartin
+   18  mkdir Workspace-DESCARTIN
+   19  mkdir Workspace-GERALD
+   20  ls
+   21  c:/users/occs/documents/Workspace-GERALD
+   22  ls
+   23  rm descartin.txt
+   24  ls
+   25  c:/users/OCCS/
+   26  CD
+   27  cd c:/users/OCCS/
+   28  cd c:/users/OCCS/documents
+   29  ls -al
+   30  mkdir workspace-kisazy
+   31  ls
+   32  ls -al
+   33  cd c:/users/OCCS/documents/workspace-kisazy
+   34  mkdir workspace-kisazy
+   35  ls
+   36  git config --global user.name 'gerald'
+   37  git config --global user.email 'geralddescartin22@gmail.com'
+   38  git config --global user.email 'geralddescartin22@gmail.com'
+   39  git init
+   40  cd.git
+   41  ls
+   42  tree -a
+   43  cd .git
+   44  ls
+   45  cd ..
+   46  touch kisazy.md
+   47  ls
+   48  git status
+   49  git add .
+   50  git status
+   51  git commit -m "Hello sa Latina!"
+   52  git branch
+   53  git branch feature1
+   54  git branch
+   55  git checkout feature1
+   56  ls
+   57  git branch -M main
+   58  git branch
+   59  git remote add origin https://github.com/kisazyy/workspace-kisazy.git
+   60  git status
+   61  git push -u origin main
+   62  git remote add origin
+   63  git remote add origin https://github.com/kisazyy/workspace-kisazy.git
+   64  git branch -M main
+   65  git branch
+   66  git remote add origin https://github.com/kisazyy/workspace-kisazy.git
+   67  git status
+   68  git push -u origin main
+   69  git status
+   70  git add .
+   71  git satus
+   72  git status
+   73  git commit -m "first commit"
+   74  git push
+   75  git add.
+   76  git status
+   77  git branch feature1
+   78  git branch
+   79  git checkout feature1
+   80  ls
+   81  git status
+   82  git rebase main
+   83  history
