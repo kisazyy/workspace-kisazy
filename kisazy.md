@@ -8,3 +8,5 @@ Gerald Descartin
 "Breakdown saglit, slayer na ulit."
 
 SOBRA SA LATINAY!
+
+oa na
