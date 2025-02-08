@@ -10,3 +10,5 @@ Gerald Descartin
 SOBRA SA LATINAY!
 
 oa na
+
+<img src="img/1280px-Sunflower_from_Silesia2.jpg">
